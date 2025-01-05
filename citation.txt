@@ -1,0 +1,8 @@
+@article{REPO218,
+    author = "Xie, Yupeng and Luo, Yuyu and Li, Guoliang and Tang, Nan",
+    journal = "ArXiv",
+    title = "{HAIChart: Human and AI Paired Visualization System}",
+    url = "https://api.semanticscholar.org/CorpusID:270559276",
+    volume = "abs/2406.11033",
+    year = "2024"
+}
